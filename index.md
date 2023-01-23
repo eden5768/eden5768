@@ -32,7 +32,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://youtu.be/XPlsDYkBCSw)
+[Link to check point 1 presentation video](https://youtu.be/XPlsDYkBCSw)
 
 
 ## References
